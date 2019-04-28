@@ -220,6 +220,7 @@ body {
   
 @media only screen and (max-width: 980px) {
    
+  /* I didn't seem to need to change anything for this size */
     
 }
 
@@ -238,8 +239,5 @@ body {
     }
     .auth-image {
         max-width: 200px;
-    }
-    #masthead {
-        position: static;
     }
 }
